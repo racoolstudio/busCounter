@@ -1,7 +1,7 @@
 # Bus Counter
 
 This is a simple web application for counting the number of people who entered a bus. It provides a user interface to increment the count and save the count for future reference.
-
+Here is the website : https://adorable-moxie-7984d0.netlify.app/
 ## Table of Contents
 
 - [Features](#features)
