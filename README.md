@@ -7,8 +7,7 @@ This is a simple web application for counting the number of people who entered a
 - [Features](#features)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
